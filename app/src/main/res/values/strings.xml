@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chatapp</string>
+    <string name="enter_message_hint">Enter your message</string>
+</resources>
